@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/result-summary-component-aTVnVuKKYR)](https://www.frontendmentor.io/solutions/result-summary-component-aTVnVuKKYR)
 - Live Site URL: [https://francismbroh.github.io/Responsive-Result-Summary-component/](https://francismbroh.github.io/Responsive-Result-Summary-component/)
 
 ### Built with
